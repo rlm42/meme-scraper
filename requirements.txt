@@ -1,0 +1,3 @@
+gunicorn
+tweepy==4.4.0
+
